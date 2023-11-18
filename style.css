@@ -1,0 +1,21 @@
+/* Video */
+body {
+  background-color: black;
+}
+
+.container video {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.container>h2 {
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+}
+
+.container>h2>strong {
+  color: yellow;
+}
