@@ -19,3 +19,8 @@ body {
 .container>h2>strong {
   color: yellow;
 }
+
+.container>.next>a {
+  color: aqua;
+  text-decoration: underline;
+}
